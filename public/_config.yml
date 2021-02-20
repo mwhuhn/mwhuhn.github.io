@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Merilys Huhn
+tagline:          ''
+description:      ''
+url:              http://merilyshuhn.com
+baseurl:          /
+
+author:
+  name:           'Merilys Huhn'
+  url:            https://twitter.com/mwhuhn
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/mwhuhn
