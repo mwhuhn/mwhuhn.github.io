@@ -1,5 +1,6 @@
 # Ignore docs files
 _favicon
+_hydeout
 
 # Numerous always-ignore extensions
 *.diff
