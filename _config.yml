@@ -2,3 +2,14 @@ remote_theme: fongandrew/hydeout
 
 title: Merilys Huhn
 description: PhD Candidate, Stanford Sociology
+
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+sidebar_home_link:  true
